@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:plugin_wifi_connect/plugin_wifi_connect.dart';
+import 'package:viam_plugin_wifi_connect/viam_plugin_wifi_connect.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('plugin_wifi_connect');
